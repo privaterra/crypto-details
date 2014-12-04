@@ -13,12 +13,17 @@ Jabber ID: `rguerra@jabber.org`
 
 Jabber Fingerprint: `A13C5325 3D1EAC69 A6290773 FADA21E8 C47707DC`
 
+PGP:
+====
+
+Email: `rguerra@privaterra.org`
+
 Short ID: `CC008403`
 Key ID: `21AF9B7BCC008403`
 
 PGP Fingerprint: `9A65 89D3 C485 85C0 B306  1E27 21AF 9B7B CC00 8403`
 
-Public Key Server -- Get ``0x21AF9B7BCC008403''
+Public Key Server -- [Get ``0x21AF9B7BCC008403''](http://wwwkeys.pgp.net:11371/pks/lookup?op=vindex&search=0x21AF9B7BCC008403&fingerprint=on)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
