@@ -5,6 +5,8 @@ Robert Guerra (Updated: December 4, 2014)
 
 Signal/Redphone available upon request
 
+SIP/ZRTP: `rguerra@ostel.co`
+
 Wickr: `canuck99`
 
 Jabber (XMPP) with OTR (Off-the-Record messaging)
